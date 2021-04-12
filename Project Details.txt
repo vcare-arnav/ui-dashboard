@@ -1,0 +1,8 @@
+Admin Panel
+
+    1. Save Categories
+    2. Save Subcategories
+    3. View Total Vendors
+    4. Vendor’s Business profile
+    5. Publish Banner 
+    6. Banner Listing
